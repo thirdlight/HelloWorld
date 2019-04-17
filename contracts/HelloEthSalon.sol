@@ -1,7 +1,4 @@
-pragma solidity ^0.4.24;
-// complains about public and won't compile
-// complains about view but will compile without
-// complains about (var-type memory) and won't compile
+pragma solidity ^0.5.0;
 
 contract HelloEthSalon {
   string message = "I know smart contract testing!!";
