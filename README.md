@@ -4,11 +4,15 @@ A short program that tests creating test cases in solidity, following these tuto
 * https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119
 <br />
 This code has been updated to work with Solidity 5.0.
-## Getting Started
-### Dependencies:
+<br />
+
+# Getting Started
+
+###   Dependencies:
 * Solidity 5.0 
 * Truffle v5.0.8
 * Node v10.15.0
+
 ### Installation
 Download the `Hello World` folder onto your machine locally and enter the folder through the command line. Then, run `truffle test`.
 
